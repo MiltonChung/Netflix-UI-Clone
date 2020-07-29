@@ -1,5 +1,5 @@
 # Netflix UI Clone
  
-Technologies involved: HTML, CSS, and JavaScript
+Fully responsive Netflix homepage built with HTML, CSS, and a little JQuery. 
 
-Hosted at: https://miltonchung.github.io/Netflix-UI-Clone/index.html
+Demo: https://miltonchung.github.io/Netflix-UI-Clone/index.html
